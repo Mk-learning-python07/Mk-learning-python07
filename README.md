@@ -5,7 +5,7 @@ I'm Muthukrishnan, a passionate Chemical Engineer with 5 years experience in the
 ## About Me
 My main focus of this repository is to publish code snippets of utilizing python to basic activities like typical python commands, creating plots using pandas/seaborn/matplotlib/plotly.
 If you are interested in creating good graph plots and transition from using excel for graphing to python - I will be your buddy. <br><br>
-🌱 I’m currently learning -Machine learning using scikit-learn/tensorflow/keras packages. <br>
+🌱 I’m currently learning - Machine learning using scikit-learn/tensorflow/keras packages. <br>
 
 
 ## Languages and Tools:
