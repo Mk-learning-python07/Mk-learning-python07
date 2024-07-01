@@ -19,6 +19,18 @@ If you are interested in creating good graph plots and transition from using exc
 ## Connect with Me
 [LinkedIn](https://ca.linkedin.com/in/muthu-krishnan1?trk=public_profile_browsemap)
 
+
+# Important Links:
+<ul>
+<li>Regex Editor/Test - https://regex101.com/ </li>
+<li>Emojis - https://emojipedia.org/search?q=credits </li>
+
+
+</ul>
+
+# Additional resources/books utilized:
+1. Introduction to Statistical Learning - [Book Link](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+
 <!--
 - 👋 Hi, I’m @Mk-learning-python07
 - 👀 I’m interested in ...
