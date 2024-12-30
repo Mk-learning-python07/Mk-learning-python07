@@ -1,42 +1,69 @@
 ## Hi there 👋 
 
-I'm Muthukrishnan, a passionate Chemical Engineer with 5 years experience in the energy industry. Welcome to my GitHub profile!
+I'm Muthukrishnan, a passionate Chemical Engineer with 5 years of experience in the energy industry. Welcome to my GitHub profile!
 
 ## About Me
-My main focus of this repository is to publish code snippets of utilizing python to basic activities like typical python commands, creating plots using pandas/seaborn/matplotlib/plotly.
-If you are interested in creating good graph plots and transition from using excel for graphing to python - I will be your buddy. <br><br>
-🌱 I’m currently learning - Machine learning using scikit-learn/tensorflow/keras packages. <br>
 
+This repository is a collection of Python code snippets aimed at simplifying tasks like typical Python commands, creating graphs, and visualizing data using libraries such as Pandas, Seaborn, Matplotlib, and Plotly. If you're looking to transition from Excel to Python for graphing, I'm here to help you with that!  
+
+🌱 I’m currently learning machine learning with **Scikit-learn**, **TensorFlow**, and **Keras** to enhance my data-driven problem-solving skills.
+
+## Key Areas of Focus:
+
+- **Python programming** for data analysis and visualization  
+- Transitioning from Excel to Python for powerful graphing  
+- Machine learning with Scikit-learn, TensorFlow, and Keras  
 
 ## Languages and Tools:
-<ul>
-  <li>Python</li> 
-  <li>JMP</li> 
-  <li>MATLAB</li>
-  <li>HTML/CSS</li>
-</ul>
+
+- **Python**  
+- **JMP**  
+- **MATLAB**  
+- **HTML/CSS**  
 
 ## Connect with Me
-[LinkedIn](https://ca.linkedin.com/in/muthu-krishnan1?trk=public_profile_browsemap)
 
+Feel free to reach out on [LinkedIn](https://ca.linkedin.com/in/muthu-krishnan1?trk=public_profile_browsemap). Let's connect!
 
-# Important Links:
-<ul>
-<li>Regex Editor/Test - https://regex101.com/ </li>
-<li>Emojis - https://emojipedia.org/search?q=credits </li>
+## Important Links:
 
+- [Regex Editor/Test](https://regex101.com/)  
+- [Emojis](https://emojipedia.org/search?q=credits)  
 
-</ul>
+## Additional Resources/Books I Recommend:
 
-# Additional resources/books utilized:
-1. Introduction to Statistical Learning - [Book Link](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+1. **Introduction to Statistical Learning** - [Book Link](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+2. **Deep Learning with Python (Second Edition)** by François Chollet, Manning Publications, 2021, ISBN 9781617294433.
+3. **The Idiomatic Programmer - Learning Keras Handbook**  
+   Available at: [The Idiomatic Programmer - Learning Keras Handbook](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/blob/master/handbooks/The%20Idiomatic%20Programmer%20-%20Learning%20Keras%20-%20Handbook%201%20-%20Computer%20Vision%20Models.pdf)
+ 
 
-<!--
-- 👋 Hi, I’m @Mk-learning-python07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+---
+
+### 🚀 Personal Website
+
+For more details about my professional journey, research, and how to contact me, feel free to explore my personal website:  
+👉 [Visit My Portfolio](https://mk-learning-python07.github.io/muthukrishnan.github.com/)
+
+---
+
+### 📝 How to Contribute
+
+I welcome contributions! If you'd like to contribute to the repository, you can:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+Your feedback and suggestions are always appreciated! 🌟
+
+---
+
+### 📜 License
+
+This project is licensed under the **MIT License**. You’re free to use, modify, and distribute it under the terms of this license.
+
+---
+
+Thank you for visiting my GitHub profile! 🙏 Feel free to reach out if you have any questions or want to collaborate! 😊
